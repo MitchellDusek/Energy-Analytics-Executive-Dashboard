@@ -23,7 +23,7 @@ It demonstrates the ability to transform complex, multi-granular datasets into a
 
 ## Executive Dashboard
 
-### Executive Overview — Current Energy Position
+### US Energy Position — Current Energy Position
 
 ![US Energy Position](Images/Dashboard/US%20Energy%20Position.png)
 
@@ -37,7 +37,7 @@ This page provides an immediate understanding of whether the system is balanced,
 
 ---
 
-## Production & Supply — Long-Term Structural Trends
+## Energy Supply & Trade Positions — Long Term Structural Trends
 
 ![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
 
@@ -51,7 +51,7 @@ Energy production has evolved significantly, with natural gas emerging as the do
 
 ---
 
-## Consumption by Sector — Behavioral & Seasonal Patterns
+## Demand Analysis by Sector — Behavioral & Seasonal Patterns
 
 ![Demand Analysis by Sector](Images/Dashboard/Demand%20Analysis%20by%20Sector.png)
 
@@ -65,7 +65,7 @@ Residential demand introduces predictable but significant seasonal volatility, w
 
 ---
 
-## Supply Balance & Reconciliation — System Integrity
+## Supply-Demand Balance & System Integrity — System Integrity
 
 ![Supply-Demand Balance & System Integrity](Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png)
 
@@ -79,14 +79,14 @@ The system remains tightly balanced overall, with recent years showing a shift t
 
 ---
 
-## Monthly Detail (1973+) — Operational Trends & Rolling Stability
+## Operation Trends & Short-Term Dyanamics — Operational Trends & Rolling Stability
 
 ![Operation Trends & Short-Term Dynamics](Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png)
 
 **What this shows:**
 - Monthly production and consumption trends since 1973  
 - Short-term fluctuations in energy demand and supply  
-- Rolling 12-month production vs net supply to smooth volatility  
+- Rolling 12-month production vs Consumption to smooth volatility  
 - Latest monthly KPIs for real-time system position  
 
 **Executive takeaway:**
