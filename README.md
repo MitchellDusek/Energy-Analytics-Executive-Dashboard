@@ -102,6 +102,8 @@ While long-term trends suggest stability, monthly data reveals meaningful short-
 
 ## Data Model
 
+![Data Model](Images/Dashboard/Data%20Model.png)
+
 A star schema model was implemented to ensure scalability and performance.
 
 - Fact Tables: Production, Consumption, Trade  
