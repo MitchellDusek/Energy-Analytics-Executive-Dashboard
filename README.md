@@ -14,7 +14,7 @@ It demonstrates the ability to transform complex, multi-granular datasets into a
 ## Executive Summary
 
 - Energy demand is highly sensitive to macroeconomic and societal disruptions  
-- Long-term consumption growth has plateaued, indicating efficiency gains  
+- Long-term consumption growth has plateaued, indicating possible efficiency gains  
 - Renewable growth is occurring but remains concentrated in biomass  
 - Residential consumption introduces significant seasonal volatility  
 - The U.S. has transitioned from a net energy importer to a net exporter  
