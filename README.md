@@ -26,7 +26,7 @@ Executive Dashboard
 
 Executive Overview — Current Energy Position 
 
-![US Energy Position](Images/Dashboard/US Energy Position.png)
+![US Energy Position](Images/Dashboard/US Energy Position.png](https://github.com/MitchellDusek/Energy-Analytics-Executive-Dashboard/blob/main/Images/Dashboard/US%20Energy%20Position.png)
 
 What this shows: 
 
