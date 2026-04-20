@@ -119,7 +119,11 @@ This structure ensures consistent filtering, accurate aggregation, and flexibili
 - Total Consumption  
 - Net Imports  
 - Energy Mix (%)  
-- Source Contribution  
+- Source Contribution
+
+![Measures Table](Images/Dashboard/Measures%20Table.png)
+
+For a full view of all DAX you can click [HERE](PowerBi/Energy%20Sector%20Dashboard.pbix) to view the PowerBI Measures Table
 
 Measures were designed to remain accurate across both annual and monthly datasets.
 
