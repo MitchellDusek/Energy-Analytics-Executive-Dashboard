@@ -40,6 +40,8 @@ Executive takeaway: This page provides an immediate understanding of whether the
 
 Production & Supply — Long-Term Structural Trends 
 
+![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
+
 What this shows: 
 
 Long-term production growth by source  
@@ -51,6 +53,8 @@ Trade dynamics (imports vs exports)
 Executive takeaway: Energy production has evolved significantly, with natural gas emerging as the dominant source. Trade dynamics show a transition toward energy independence. 
 
 Consumption by Sector — Behavioral & Seasonal Patterns 
+
+![Demand Analysis by Sector](Images/Dashboard/Demand%20Analysis%20by%20Sector.png)
 
 What this shows: 
 
@@ -64,6 +68,8 @@ Executive takeaway: Residential demand introduces predictable but significant se
 
 Supply Balance & Reconciliation — System Integrity 
 
+![Supply-Demand Balance & System Integrity](Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png)
+
 What this shows: 
 
 Net supply vs consumption alignment  
@@ -75,6 +81,8 @@ Import/export contribution to balancing supply
 Executive takeaway: The system remains tightly balanced overall, with recent years showing a shift toward net export positioning — a structural change in energy independence. 
 
 Monthly Detail (1973+) — Operational Trends & Rolling Stability 
+
+![Operation Trends & Short-Term Dynamics](Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png)
 
 What this shows: 
 
