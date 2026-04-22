@@ -8,20 +8,16 @@
 
 This project delivers a fully structured energy intelligence platform designed to analyze production, consumption, imports, exports, and energy mix across both long-term and monthly time horizons.
 
-It demonstrates the ability to transform complex, multi-granular datasets into a scalable analytical model and deliver executive-level insights that support strategic decision-making.
+It demonstrates the ability to transform complex datasets into a scalable analytical framework and deliver decision-ready insights for strategic and operational use.
 
 ---
 
 ## Who This Project Is For
 
-This project is designed for professionals and stakeholders who rely on data to understand and make decisions around energy systems, including:
-
 - Energy analysts evaluating production, consumption, and trade dynamics  
-- Business intelligence professionals focused on data modeling and executive reporting  
-- Decision-makers and strategists interested in energy trends, policy implications, and supply-demand positioning  
-- Anyone seeking a clear, data-driven view of U.S. energy systems and long-term trends  
-
-The analysis is structured to provide both technical depth and accessible insights, making it relevant across a wide range of audiences.
+- Business intelligence professionals focused on data modeling and reporting  
+- Decision-makers and strategists interested in energy trends, policy implications, and risk exposure  
+- Anyone seeking a clear, data-driven view of U.S. energy systems
 
 ---
 
@@ -35,9 +31,9 @@ The analysis is structured to provide both technical depth and accessible insigh
 
 ---
 
-## Executive Dashboard
+## Dashboard Overview
 
-### US Energy Position — Current Energy Position
+### US Energy Position
 
 ![US Energy Position](Images/Dashboard/US%20Energy%20Position.png)
 
@@ -51,7 +47,7 @@ This page provides an immediate understanding of whether the system is balanced,
 
 ---
 
-## Energy Supply & Trade Positions — Long Term Structural Trends
+## Energy Supply & Trade Positions
 
 ![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
 
@@ -65,7 +61,7 @@ Energy production has evolved significantly, with natural gas emerging as the do
 
 ---
 
-## Demand Analysis by Sector — Behavioral & Seasonal Patterns
+## Demand Analysis by Sector
 
 ![Demand Analysis by Sector](Images/Dashboard/Demand%20Analysis%20by%20Sector.png)
 
@@ -79,7 +75,7 @@ Residential demand introduces predictable but significant seasonal volatility, w
 
 ---
 
-## Supply-Demand Balance & System Integrity — System Integrity
+## Supply-Demand Balance & System Integrity
 
 ![Supply-Demand Balance & System Integrity](Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png)
 
@@ -93,7 +89,7 @@ The system remains tightly balanced overall, with recent years showing a shift t
 
 ---
 
-## Operation Trends & Short-Term Dyanamics — Operational Trends & Rolling Stability
+## Operation Trends & Short-Term Dynamics
 
 ![Operation Trends & Short-Term Dynamics](Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png)
 
@@ -105,12 +101,6 @@ The system remains tightly balanced overall, with recent years showing a shift t
 
 **Executive takeaway:**
 While long-term trends suggest stability, monthly data reveals meaningful short-term variability. The rolling 12-month view highlights underlying stability while exposing periods where production and consumption diverge, signaling potential operational stress.
-
-**Why this matters:**
-- Identifies short-term imbalances not visible in annual trends  
-- Supports near-term forecasting and supply planning decisions  
-- Highlights divergence between production and consumption trends  
-- Provides real-time visibility into current system performance
 
 ---
 
@@ -127,7 +117,7 @@ This structure ensures consistent filtering, accurate aggregation, and flexibili
 
 ---
 
-## Key Metrics (DAX)
+## Key Metrics (DAX - PowerBI formula language)
 
 - Total Production  
 - Total Consumption  
@@ -202,7 +192,7 @@ All outputs were validated and refined to ensure accuracy and business relevance
 
 - Power BI  
 - DAX  
-- Data Modeling (Star Schema)  
+- Data Modeling
 - Excel  
 - AI-assisted development  
 
