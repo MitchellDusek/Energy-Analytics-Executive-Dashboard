@@ -10,6 +10,16 @@ This project delivers a fully structured energy intelligence platform designed t
 
 It demonstrates the ability to transform complex, multi-granular datasets into a scalable analytical model and deliver executive-level insights that support strategic decision-making.
 
+## Who This Project Is For
+
+This project is designed for professionals and stakeholders who rely on data to understand and make decisions around energy systems, including:
+
+- Energy analysts evaluating production, consumption, and trade dynamics  
+- Business intelligence professionals focused on data modeling and executive reporting  
+- Decision-makers and strategists interested in energy trends, policy implications, and supply-demand positioning  
+- Anyone seeking a clear, data-driven view of U.S. energy systems and long-term trends  
+
+The analysis is structured to provide both technical depth and accessible insights, making it relevant across a wide range of audiences.
 ---
 
 ## Executive Summary
