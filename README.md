@@ -1,6 +1,7 @@
 # Energy Intelligence Dashboard  
 ### End-to-End Data Modeling, Analytics, and AI-Assisted Insight Generation
 
+> Designed for both technical and non-technical audiences, delivering clear, executive-level insights without requiring a data background.
 ---
 
 ## Overview
