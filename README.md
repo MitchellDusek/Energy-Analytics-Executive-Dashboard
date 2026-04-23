@@ -1,5 +1,5 @@
 # Energy Intelligence Dashboard  
-### End-to-End Data Modeling, Analytics, and AI-Assisted Insight Generation
+### Analyzing U.S. energy production, consumption, trade, and energy mix in Power BI
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Focus-Advanced%20Analytics-darkgreen)
@@ -12,9 +12,9 @@
 
 ## Overview
 
-This project delivers a fully structured energy intelligence platform designed to analyze production, consumption, imports, exports, and energy mix across both long-term and monthly time horizons.
+This project analyzes U.S. energy production, consumption, imports, exports, and energy mix across both long-term and monthly time horizons.
 
-It demonstrates the ability to transform complex datasets into a scalable analytical framework and deliver decision-ready insights for strategic and operational use.
+The goal was to take a complex, multi-granularity dataset and structure it into a dashboard that clearly shows where the energy system stands and how it is evolving over time.
 
 ---
 
@@ -29,7 +29,7 @@ It demonstrates the ability to transform complex datasets into a scalable analyt
 
 ## Key Findings at a Glance
 
-- Energy demand is highly sensitive to macroeconomic and societal disruptions  
+- Energy demand shifts noticeably during major economic and social disruptions  
 - Long-term demand growth has plateaued, indicating possible efficiency gains  
 - Renewable growth is occurring but remains concentrated in biomass  
 - Residential demand introduces significant seasonal volatility  
