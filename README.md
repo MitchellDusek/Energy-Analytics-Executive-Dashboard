@@ -48,7 +48,7 @@ The goal was to take a complex, multi-granularity dataset and structure it into 
 - Net supply position and variance  
 - Energy mix distribution and sector consumption  
 
-**Summary:**
+**Page Summary:**
 Provides a view of how energy supply aligns with demand, helping identify imbalances, trends, and shifts in overall system position. 
 
 ---
@@ -57,13 +57,13 @@ Provides a view of how energy supply aligns with demand, helping identify imbala
 
 ![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
 
-**What this shows:**
+**Key Elements:**
 - Long-term production growth by source  
 - Relative contribution of energy sources  
 - Trade dynamics (imports vs exports)  
 
-**Summary:**
-Energy production has evolved significantly, with natural gas emerging as the dominant source. Trade dynamics show a transition toward energy independence.
+**Page Summary:**
+Highlights how energy is produced and how trade impacts total supply, helping identify dependency risks and shifts toward energy long-term sustainability and independence.
 
 ---
 
@@ -71,13 +71,13 @@ Energy production has evolved significantly, with natural gas emerging as the do
 
 ![Demand Analysis by Sector](Images/Dashboard/Demand%20Analysis%20by%20Sector.png)
 
-**What this shows:**
+**Key Elements:**
 - Sector-level consumption trends  
 - Seasonal fluctuations in demand  
 - Year-over-year consumption changes  
 
-**Summary:**
-Residential demand introduces predictable but significant seasonal volatility, while industrial and transportation sectors remain more stable drivers of baseline consumption.
+**Page Summary:**
+Shows how energy demand varies across sectors and over time, with clear seasonal patterns that impact planning and resource allocation.
 
 ---
 
@@ -85,13 +85,13 @@ Residential demand introduces predictable but significant seasonal volatility, w
 
 ![Supply-Demand Balance & System Integrity](Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png)
 
-**What this shows:**
+**Key Elements:**
 - Net supply vs consumption alignment  
 - Variance and reconciliation across components  
 - Import/export contribution to balancing supply  
 
-**Summary:**
-The system remains tightly balanced overall, with recent years showing a shift toward net export positioning — a structural change in energy independence.
+**Page Summary:**
+Explains how total supply meets demand and identifies where imbalances occur, providing transparency into how the system stays aligned. 
 
 ---
 
@@ -99,14 +99,14 @@ The system remains tightly balanced overall, with recent years showing a shift t
 
 ![Operation Trends & Short-Term Dynamics](Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png)
 
-**What this shows:**
+**Key Elements:**
 - Monthly production and consumption trends since 1973  
 - Short-term fluctuations in energy demand and supply  
 - Rolling 12-month production vs Consumption to smooth volatility  
 - Latest monthly KPIs (Key Performance Indicators) for real-time system position  
 
-**Summary:**
-While long-term trends suggest stability, monthly data reveals meaningful short-term variability. The rolling 12-month view highlights underlying stability while exposing periods where production and consumption diverge, signaling potential operational stress.
+**Page Summary:**
+Reveals short-term fluctuations and seasonal demand spikes, helping identify periods of operational stress and the need for responsive supply planning.
 
 ---
 
