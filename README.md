@@ -48,7 +48,7 @@ The goal was to take a complex, multi-granularity dataset and structure it into 
 - Net supply position and variance  
 - Energy mix distribution and sector consumption  
 
-**Summary:**
+**Summary:** 
 Provides a view of how energy supply aligns with demand, helping identify imbalances, trends, and shifts in overall system position. 
 ---
 
