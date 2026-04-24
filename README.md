@@ -49,7 +49,7 @@ The goal was to take a complex dataset and structure it into a dashboard that qu
 - Energy mix distribution and sector consumption  
 
 **Page Summary:**
-Provides a view of how energy supply aligns with demand, helping identify imbalances, trends, and shifts in overall system position. 
+Provides a view of how energy supply aligns with demand, offering visibility into imbalances, trends, and shifts in overall system position. 
 
 ---
 
@@ -106,7 +106,7 @@ Explains how total supply meets demand and identifies where imbalances occur, pr
 - Latest monthly KPIs (Key Performance Indicators) for real-time system position  
 
 **Page Summary:**
-Reveals short-term fluctuations and seasonal demand spikes, helping identify periods of operational stress and the need for responsive supply planning.
+Reveals short-term fluctuations and seasonal demand spikes, clarifying periods of operational stress and the need for responsive supply planning.
 
 ---
 
