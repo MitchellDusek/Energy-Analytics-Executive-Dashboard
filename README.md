@@ -41,7 +41,9 @@ The goal was to take a complex dataset and structure it into a dashboard that qu
 
 ### Energy Position Overview
 
-![US Energy Position](Images/Dashboard/US%20Energy%20Position.png)
+<p align="center">
+  <img src="Images/Dashboard/US%20Energy%20Position.png" width="900"/>
+</p>
 
 **Key Elements:**
 - Total production vs consumption alignment  
@@ -56,11 +58,8 @@ Provides a view of how energy supply aligns with demand, offering visibility int
 ## Energy Supply & Trade Position
 
 <p align="center">
-  <img src="![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
-" width="900"/>
+  <img src="Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png" width="900"/>
 </p>
-
-![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
 
 **Key Elements:**
 - Long-term production growth by source  
@@ -74,7 +73,9 @@ Highlights how energy is produced and how trade impacts total supply, helping id
 
 ## Energy Demand by Sector
 
-![Energy Demand by Sector](Images/Dashboard/Demand%20Analysis%20by%20Sector.png)
+<p align="center">
+  <img src="Images/Dashboard/Demand%20Analysis%20by%20Sector.png" width="900"/>
+</p>
 
 **Key Elements:**
 - Sector-level consumption trends  
@@ -88,7 +89,9 @@ Shows how energy demand varies across sectors and over time, with clear seasonal
 
 ## Supply-Demand Balance & System Integrity
 
-![Supply-Demand Balance & System Integrity](Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png)
+<p align="center">
+  <img src="Images/Dashboard/Supply-Demand%20Balance%20&%20System%20Integrity.png" width="900"/>
+</p>
 
 **Key Elements:**
 - Net supply vs consumption alignment  
@@ -102,7 +105,9 @@ Explains how total supply meets demand and identifies where imbalances occur, pr
 
 ## Operational Trends & Short-Term Dynamics
 
-![Operational Trends & Short-Term Dynamics](Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png)
+<p align="center">
+  <img src="Images/Dashboard/Operation%20Trends%20&%20Short-Term%20Dynamics.png" width="900"/>
+</p>
 
 **Key Elements:**
 - Monthly production and consumption trends since 1973  
@@ -117,7 +122,9 @@ Reveals short-term fluctuations and seasonal demand spikes, clarifying periods o
 
 ## Data Model
 
-![Data Model](Images/Dashboard/Data%20Model.png)
+<p align="center">
+  <img src="Images/Dashboard/Data%20Model.png" width="900"/>
+</p>
 
 A star schema model was implemented to support scalability and performance throughout the report.
 
@@ -146,7 +153,9 @@ Detailed DAX logic is available upon request.
 
 ### Macroeconomic Sensitivity
 
-![Insight 1+2](Images/Insights/Insight%201+2.png)
+<p align="center">
+  <img src="Images/Insights/Insight%201+2.png" width="900"/>
+</p>
 
 Energy demand declines align with major events:
 - 1979–1983 energy crisis  
@@ -163,7 +172,9 @@ Post-2009, energy consumption stabilizes despite continued economic growth, indi
 
 ### Renewable Composition Reality
 
-![Insight 3](Images/Insights/Insight%203.png)
+<p align="center">
+  <img src="Images/Insights/Insight%203.png" width="900"/>
+</p>
 
 While renewable energy is expanding, it remains heavily concentrated in biomass rather than more scalable sources such as solar and wind. This indicates that the transition away from fossil fuels is still in its early stages, with continued reliance on limited and less sustainable energy sources. As demand for long-term energy stability increases, this creates both risk and opportunity — risk through overreliance on a single renewable source, and opportunity for significant expansion in solar and wind, where future investment and innovation are likely to accelerate. 
 
@@ -171,7 +182,9 @@ While renewable energy is expanding, it remains heavily concentrated in biomass 
 
 ### Seasonal Demand Volatility
 
-![Insight 4](Images/Insights/Insight%204.png)
+<p align="center">
+  <img src="Images/Insights/Insight%204.png" width="900"/>
+</p>
 
 Seasonal demand spikes driven by temperature extremes and cultural celebration create predictable periods of stress on energy systems. This allows organizations to plan ahead by identifying potential failure points, allocating resources more effectively, and improving response times during high-demand periods. 
 
@@ -187,7 +200,9 @@ Seasonal demand spikes driven by temperature extremes and cultural celebration c
 
 ### Structural Trade Shift
 
-![Insight 5](Images/Insights/Insight%205.png)
+<p align="center">
+  <img src="Images/Insights/Insight%205.png" width="900"/>
+</p>
 
 This shift changes the U.S. energy system from supply-dependent to supply-driven, reducing reliance on external sources while opening the door to greater global market participation. It creates new opportunities across multiple parts of the value chain, from production to infrastructure and investment. 
 
