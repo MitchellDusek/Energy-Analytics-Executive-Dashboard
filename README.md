@@ -201,7 +201,7 @@ This shift changes the U.S. energy system from supply-dependent to supply-driven
 AI tools were used throughout this project to accelerate development and enhance analytical quality.
 
 - Assisted with DAX measure development and optimization  
-- Supported data modeling decisions and validation  
+- Supported modeling decisions and validation  
 - Helped structure dashboards for clarity and usability  
 - Used to test and validate insights against the underlying data    
 
