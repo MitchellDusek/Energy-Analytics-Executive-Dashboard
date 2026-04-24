@@ -168,7 +168,7 @@ While renewable energy is expanding, it remains heavily concentrated in biomass 
 
 ![Insight 4](Images/Insights/Insight%204.png)
 
-Seasonal demand spikes driven by temperature extremes create predictable periods of stress on energy systems. This allows organizations to plan ahead by identifying potential failure points, allocating resources more effectively, and improving response times during high-demand periods. 
+Seasonal demand spikes driven by temperature extremes and cultural celebration create predictable periods of stress on energy systems. This allows organizations to plan ahead by identifying potential failure points, allocating resources more effectively, and improving response times during high-demand periods. 
 
 - **Operations & Reliability:** Anticipate system stress, position personnel strategically, and reduce downtime during peak usage  
 
