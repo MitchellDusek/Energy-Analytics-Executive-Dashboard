@@ -7,7 +7,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Type-Business%20Intelligence-5A9)
 ![AI Assisted](https://img.shields.io/badge/AI-Assisted%20Development-8A2BE2)
 
-> Designed for both technical and non-technical audiences, delivering clear insights without requiring a data background.
+> Designed for both technical and non-technical audiences, delivering a clear understanding without requiring a data background.
 ---
 
 ## Overview
