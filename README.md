@@ -176,7 +176,7 @@ Seasonal demand spikes driven by temperature extremes and cultural celebration c
 
 - **Product Strategy:** Invest in energy-efficient technologies that help customers reduce consumption during high-cost periods  
 
-- **Sales & Marketing:** Time promotions and pricing strategies around peak usage cycles to drive demand and improve margins 
+- **Sales & Marketing:** Time promotions and pricing plans around peak usage cycles to drive demand and improve margins 
 
 ---
 
