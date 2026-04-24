@@ -170,13 +170,13 @@ While renewable energy is expanding, it remains heavily concentrated in biomass 
 
 Seasonal demand spikes driven by temperature extremes create predictable periods of stress on energy systems. This allows organizations to plan ahead by identifying potential failure points, allocating resources more effectively, and improving response times during high-demand periods. 
 
-Operations & Reliability: Anticipate system stress, position personnel strategically, and reduce downtime during peak usage  
+- **Operations & Reliability:** Anticipate system stress, position personnel strategically, and reduce downtime during peak usage  
 
-Cost Management & Pricing: Implement time-based pricing or incentives to spread demand and reduce peak load pressure  
+- **Cost Management & Pricing:** Implement time-based pricing or incentives to spread demand and reduce peak load pressure  
 
-Product Strategy: Invest in energy-efficient technologies that help customers reduce consumption during high-cost periods  
+- **Product Strategy:** Invest in energy-efficient technologies that help customers reduce consumption during high-cost periods  
 
-Sales & Marketing: Time promotions and pricing strategies around peak usage cycles to drive demand and improve margins 
+- **Sales & Marketing:** Time promotions and pricing strategies around peak usage cycles to drive demand and improve margins 
 
 ---
 
