@@ -55,6 +55,10 @@ Provides a view of how energy supply aligns with demand, offering visibility int
 
 ## Energy Supply & Trade Position
 
+<p align="center">
+  <img src="![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
+" width="900"/>
+</p>
 ![Energy Supply & Trade Position](Images/Dashboard/Energy%20Supply%20&%20Trade%20Position.png)
 
 **Key Elements:**
