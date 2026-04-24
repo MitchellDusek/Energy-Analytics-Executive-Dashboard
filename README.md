@@ -49,8 +49,7 @@ The goal was to take a complex, multi-granularity dataset and structure it into 
 - Energy mix distribution and sector consumption  
 
 **Summary:**
-This page provides an immediate understanding of whether the system is balanced, where demand is concentrated, and how supply is structured.
-
+Provides a view of how energy supply aligns with demand, helping identify imbalances, trends, and shifts in overall system position. 
 ---
 
 ## Energy Supply & Trade Position
